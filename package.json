@@ -1,0 +1,29 @@
+{
+  "name": "basic-api-gateway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.3.0",
+    "grunt-apidoc": "^0.11.0",
+    "grunt-cli": "^1.3.2",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-jshint": "^3.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-express-server": "^0.5.4",
+    "grunt-mocha-test": "^0.13.3",
+    "grunt-notify": "^0.4.5",
+    "load-grunt-tasks": "^5.1.0",
+    "mocha": "^8.2.1",
+    "mongoose": "^5.11.4",
+    "should": "^13.2.3",
+    "should-http": "^0.1.1",
+    "supertest": "^6.0.1"
+  }
+}
